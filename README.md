@@ -1,6 +1,6 @@
-# Udacity cs344 : Intro to parallel programming
+# [Udacity cs344 : Intro to parallel programming] (https://www.udacity.com/course/intro-to-parallel-programming--cs344?utm_source=google&utm_medium=cpc&utm_campaign=google_search_dsa&gclid=CjwKCAjw9O3NBRB3EiwAK6wPT36al-8Z7YPaTJlON8xU9-9H2BGntuLippukcxYvyA-CV9Ne0LaVkRoCutkQAvD_BwE)
 
-What I learned:
+# What I learned:
 - Learned the fundamentals of parallel computing with the GPU and the CUDA programming environment!
 - Coded a series of image processing algorithms (which was used in Photoshop and Instragram) on high-end GPUs.
 
